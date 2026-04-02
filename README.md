@@ -2,9 +2,6 @@
 
 An end-to-end AI-powered recruitment platform that automates resume screening, candidate ranking, interview question generation, and bias detection — built with Python and the Anthropic Claude API.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
-![Claude API](https://img.shields.io/badge/Claude-API-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
@@ -87,15 +84,6 @@ python main.py --mode interview
 
 ---
 
-## 🔑 Environment Variables
-
-```env
-ANTHROPIC_API_KEY=your_api_key_here
-```
-
-Get your key at [console.anthropic.com](https://console.anthropic.com)
-
----
 
 ## 🧠 How It Works
 
@@ -138,19 +126,12 @@ Job Description + Resumes
 ## 📦 Tech Stack
 
 - **Python 3.10+**
-- **Anthropic Claude API** — AI reasoning engine
 - **Pydantic** — Data validation & schemas
 - **Rich** — Beautiful terminal output
 - **python-dotenv** — Environment management
 
 ---
 
-## 🤝 Contributing
 
-Pull requests are welcome! Please open an issue first to discuss major changes.
 
----
 
-## 📄 License
-
-MIT © 2025
